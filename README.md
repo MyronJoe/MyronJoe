@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Myron Joe</h1>
-<h3 align="center">A passionate web developer(FullStack) from Nigeria</h3>
+<h3 align="center">A passionate web developer(FullStack)</h3>
 
 <img align="right" width="400" src="https://th.bing.com/th/id/R.e1f3413bf5036045713341394f617225?rik=UQJfe%2fYIXZvk0g&pid=ImgRaw&r=0" alt="Coding">
 <p align="left"> <a href="https://twitter.com/@kamtech_01" target="blank"><img src="https://img.shields.io/twitter/follow/@kamtech_01?logo=twitter&style=for-the-badge" alt="@kamtech_01" /></a> </p>
