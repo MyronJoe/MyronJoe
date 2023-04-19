@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **josephonyekachi77@gmail.com**
+- 📫 How to reach me **kamtdev001@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
